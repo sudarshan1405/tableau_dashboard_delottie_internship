@@ -1,6 +1,36 @@
-# tableau_dashboard_factory-
-Create a calculated measure field called "Unhealthy" with a value of 10 for every unhealthy status (representing 10 mins of potential down time since the previous message).
-Create a bar chart called “Down Time per Factory”.
-Create a new sheet with a new bar chart called “Down Time per Device Type”.
-Create a Dashboard with the 2 previous sheets and set the first chart to be used as a filter (selecting a factory in the first chart shows only the down time of the machines in this factory in the second chart).
-Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
+<h1>🏭 Factory Downtime Analysis Dashboard,</h1>
+This Tableau dashboard visualizes machine downtime data across multiple factories and device types. It helps stakeholders quickly identify high-downtime locations and problematic equipment affecting operational efficiency.
+
+<h2>📌 Short Description</h2>
+The dashboard offers insights into downtime (unhealthy hours) segmented by factory and device type. It supports better decision-making in plant maintenance, equipment optimization, and resource allocation.
+
+<h2>🛠️ Tech Stack</h2>
+Tableau Public – For creating interactive dashboards
+
+CSV/Excel – Data source for device and factory-level metrics
+
+Calculated Fields – Used for downtime measures and filtering
+
+<h2>📂 Key Insights</h2>
+Factory-Level Analysis:
+
+Highest downtime recorded at Daikibo-Factory-Seiko and Daikibo-Shenzhen
+
+Minimal issues found at Daikibo-Berlin
+
+Device Type Analysis:
+
+Laser Cutter contributes to the majority of downtime
+
+Other devices like CNC, SpotWelder, and Conveyor Belt show minimal impact
+
+<h2>🌟 Highlights</h2>
+Dual-panel view for quick comparative analysis
+
+Simple bar charts for easy interpretation
+
+Focused on operational bottlenecks in manufacturing environments
+
+Identifies maintenance priority areas
+
+<h2>🖼️ Screenshot</h2>
