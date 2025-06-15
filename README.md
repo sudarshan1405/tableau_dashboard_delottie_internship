@@ -1,5 +1,5 @@
 <h1>🏭 Factory Downtime Analysis Dashboard,</h1>
-This Tableau dashboard visualizes machine downtime data across multiple factories and device types. It helps stakeholders quickly identify high-downtime locations and problematic equipment affecting operational efficiency.
+<h2>This Tableau dashboard visualizes machine downtime data across multiple factories and device types. It helps stakeholders quickly identify high-downtime locations and problematic equipment affecting operational efficiency.
 
 <h2>📌 Short Description</h2>
 The dashboard offers insights into downtime (unhealthy hours) segmented by factory and device type. It supports better decision-making in plant maintenance, equipment optimization, and resource allocation.
