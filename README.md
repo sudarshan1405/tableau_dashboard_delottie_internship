@@ -34,3 +34,4 @@ Focused on operational bottlenecks in manufacturing environments
 Identifies maintenance priority areas
 
 <h2>🖼️ Screenshot</h2>
+![dasboard].(https://github.com/sudarshan1405/tableau_dashboard_delottie_internship/blob/main/Screenshot%202025-05-12%20233826.png)
